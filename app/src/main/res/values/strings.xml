@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NotesKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Сохранить</string>
+    <string name="note_name">Название заметки</string>
+    <string name="note_description">Описание заметки</string>
+    <string name="add">add</string>
+    <string name="del">del</string>
+    <string name="toolbar_new_note">Создать</string>
+    <string name="toolbar_delete_note">Удалить</string>
+    <string name="delete">Удалить заметку</string>
+    <string name="recycle_grid">Вид: Сетка</string>
+    <string name="resucle_list">Вид: Список</string>
+    <string name="back">Назад</string>
+</resources>
